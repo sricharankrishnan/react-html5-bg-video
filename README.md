@@ -1,4 +1,4 @@
-# react-html5-background-video-component
+# react-html5-bg-video
 ![Component Preview](https://github.com/sricharankrishnan/react-html5-background-video-component/blob/master/component-preview.gif)
 
 ### About
