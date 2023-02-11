@@ -1,4 +1,5 @@
 # react-html5-background-video-component
+![Component Preview](https://github.com/sricharankrishnan/react-html5-background-video-component/blob/master/component-preview.gif)
 
 ### About
 A reactjs component designed to help display background HTML5 videos on your webpages with local component level state management for updates. The component was built on a sample create-react-app project template from which the re-useable portion was extracted as a seperate project. This is a functional component that relies on functional component hooks and thus, may not be suitabe for older react porjects.
