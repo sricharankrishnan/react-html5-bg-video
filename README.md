@@ -4,6 +4,8 @@
 ### About
 A reactjs component designed to help display background HTML5 videos on your webpages with local component level state management for updates. The component was built on a sample create-react-app project template from which the re-useable portion was extracted as a seperate project. This is a functional component that relies on functional component hooks and thus, may not be suitabe for older react porjects.
 
+Visit my sample portfolio website that uses this component at [The Lamborghini Safari](https://lamborghini-safari-react.netlify.app/). This should give you an idea of what to expect.
+
 ### Built Using
 - React JS
 - Functional Component
