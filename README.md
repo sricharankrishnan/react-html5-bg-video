@@ -1,5 +1,11 @@
 # react-html5-bg-video
-![Component Preview](https://github.com/sricharankrishnan/react-html5-background-video-component/blob/master/component-preview.gif)
+![Version](https://img.shields.io/github/v/release/sricharankrishnan/react-html5-bg-video?sort=semver)
+![Open Issues](https://img.shields.io/github/issues-raw/sricharankrishnan/react-html5-bg-video)
+![Closed Issues](https://img.shields.io/github/issues-closed-raw/sricharankrishnan/react-html5-bg-video)
+![License](https://img.shields.io/github/license/sricharankrishnan/react-click-image-play-youtube-video)
+![Maintenance](https://img.shields.io/maintenance/yes/2023)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aefcee26-341c-4336-96d7-2f7f621bc95b/deploy-status)](https://app.netlify.com/sites/lamborghini-safari-react/deploys)
+![Component Preview](https://github.com/sricharankrishnan/react-html5-bg-video/blob/master/component-preview.gif)
 
 ### About
 A reactjs component designed to help display background HTML5 videos on your webpages with local component level state management for updates. The component was built on a sample create-react-app project template from which the re-useable portion was extracted as a seperate project. This is a functional component that relies on functional component hooks and thus, may not be suitabe for older react porjects.
